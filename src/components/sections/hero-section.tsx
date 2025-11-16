@@ -11,7 +11,7 @@ export function HeroSection() {
             Swadhin Ghosh
           </h1>
           <p className="mt-4 text-lg md:text-xl text-primary font-medium font-headline">
-            Computer Science Student | Full Stack Developer | AI & Cybersecurity Enthusiast
+            Computer Science & Engineering Student | Full Stack Developer | AI & Cybersecurity Enthusiast
           </p>
           <p className="mt-6 max-w-2xl mx-auto text-muted-foreground md:text-lg">
             I'm a passionate B.Tech student focused on building practical solutions with web technologies, AI, and secure systems. Currently, I'm helping build the tech community as a Google - Student Ambassador and honing my security skills as a Cyber Security Intern at CodeAlpha.
