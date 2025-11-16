@@ -8,7 +8,7 @@ export function Footer() {
       <div className="container mx-auto flex flex-col items-center justify-between gap-4 px-4 py-8 md:flex-row md:px-6">
         <div className="flex items-center gap-2">
           <Code className="h-6 w-6 text-primary" />
-          <span className="font-bold font-headline text-lg">Swadhin's Digital Canvas</span>
+          <span className="font-bold font-headline text-lg">Swadhin Ghosh</span>
         </div>
         <p className="text-sm text-muted-foreground">
           © {currentYear} Swadhin Ghosh. All rights reserved.
