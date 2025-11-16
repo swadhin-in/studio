@@ -28,18 +28,6 @@ export function ContactSection() {
                 <MapPin className="h-5 w-5 text-primary mt-1 shrink-0" />
                 <span className="text-muted-foreground">Purba Bardhhaman, WB, India</span>
               </div>
-              <div className="flex items-start gap-4">
-                <Linkedin className="h-5 w-5 text-primary mt-1 shrink-0" />
-                <Link href="https://linkedin.com/in/swadhin-ind" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  linkedin.com/in/swadhin-ind
-                </Link>
-              </div>
-              <div className="flex items-start gap-4">
-                <Github className="h-5 w-5 text-primary mt-1 shrink-0" />
-                <Link href="https://github.com/swadhin-in" target="_blank" rel="noopener noreferrer" className="text-muted-foreground hover:text-primary transition-colors">
-                  github.com/swadhin-in
-                </Link>
-              </div>
             </div>
           </div>
           <div>
