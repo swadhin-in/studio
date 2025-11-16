@@ -28,8 +28,7 @@ export function ContactSection() {
                 <MapPin className="h-5 w-5 text-primary mt-1 shrink-0" />
                 <span className="text-muted-foreground">Purba Bardhhaman, WB, India</span>
               </div>
-            </div>
-          </div>
+       
           <div>
              <h3 className="text-xl font-bold font-headline mb-6">Send Me a Message</h3>
             <ContactForm />
